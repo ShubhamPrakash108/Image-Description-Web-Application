@@ -2,6 +2,7 @@
 
 This repository hosts an Image Captioning Web Application that uses a pre-trained model to generate descriptive captions for uploaded images. The project includes a backend built with Flask and a frontend using HTML.
 
+### Note: I have created the folder in two parts, if you want to run this code you need to first host the model on google colab for API then you need to use image_caption.zip for webpage.
 ## Features
 
 - **Image Upload**: Users can upload image files via the web interface.
